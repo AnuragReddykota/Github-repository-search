@@ -1,4 +1,4 @@
 # Github-repository-search
 
 
-fetch the user and particular repository associated to thet user
+fetch the user and particular repository associated to that user
