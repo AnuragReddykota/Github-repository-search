@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+}
+header {
+  text-align: center;
+  padding: 20px;
+}
+main {
+  padding: 0 20%;
+}
+.ordered-item {
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+}
